@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\klas_file\klas_file\bin\Debug\klas_file.exe.config
+C:\Users\Ucenik\source\repos\klas_file\klas_file\bin\Debug\klas_file.exe
+C:\Users\Ucenik\source\repos\klas_file\klas_file\bin\Debug\klas_file.pdb
+C:\Users\Ucenik\source\repos\klas_file\klas_file\obj\Debug\klas_file.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\klas_file\klas_file\obj\Debug\klas_file.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\klas_file\klas_file\obj\Debug\klas_file.exe
+C:\Users\Ucenik\source\repos\klas_file\klas_file\obj\Debug\klas_file.pdb
